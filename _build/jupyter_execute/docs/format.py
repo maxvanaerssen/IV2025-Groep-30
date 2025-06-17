@@ -3,7 +3,7 @@
 
 # # Your Data Story Title
 # 
-# Student names: FIRST_STUDENT, SECOND_STUDENT, THIRD_STUDENT, FORTH_STUDENT
+# Student names: John Bieleveld, Max van Aerssen , Elia Loeb en Andrea Wu
 # 
 # Team number: YOUR_REGISTERED_TEAM_NUMBER_ON_CANVAS
 
